@@ -1,0 +1,17 @@
+site_name: test site
+nav:
+- Home: index.md
+- Onboarding:
+  # - Salesforce Provisioning: onboarding/salesforce.md
+  - Local Setup: onboarding/local_setup.md
+# - Developer Experience:
+#   - Git Branching: developer/branching.md
+#   - Scratch Orgs: developer/scratch_orgs.md
+#   - Pull Requests: developer/pull_requests.md
+#   - Make Commands: developer/commands.md
+# - Guidelines:
+#   - Security: guidelines/security.md
+# - Integrations:
+#   - Ironclad: integrations/ironclad.md
+#   - Snowflake: integrations/snowflake.md
+# theme: material
